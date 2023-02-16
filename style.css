@@ -6,7 +6,7 @@
 } */
 
 select {
-    padding: 3rem;
+    padding: 1rem;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
@@ -15,15 +15,8 @@ select {
 }
 
 option {
-    padding: 3rem;
     font-family: 'Pacifico', cursive;
-    font-size: 5.5rem;
+    font-size: 1.5rem;
     color: olive;
     background-color: yellow;
-}
-
-/* EL HOVER NO LO CAPTA */
-option:hover {
-    background-color: rebeccapurple;
-    color: blue;
 }
